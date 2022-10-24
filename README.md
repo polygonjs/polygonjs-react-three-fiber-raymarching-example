@@ -2,6 +2,9 @@
 
 This repo demonstrates how to add raymarching materials created with [Polygonjs](https://polygonjs.com) to any react-three-fiber scene, using the [Polygonjs R3F component](https://github.com/polygonjs/polygonjs-react-three-fiber).
 
+![Raymarching_with_threejs](https://github.com/polygonjs/polygonjs-react-three-fiber-raymarching-example/blob/main/assets/r3f.gif?raw=true)
+
+
 See [live example](https://polygonjs.com/demo?example=bynode/mat/raymarchingbuilder/refractions) or learn more about [Polygonjs](https://polygonjs.com)
 
 # How it works
