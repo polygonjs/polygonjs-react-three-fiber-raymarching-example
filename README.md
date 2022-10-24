@@ -30,4 +30,4 @@ import {
 />
 ```
 
-And you're done. Check [index.ts](./blob/main/src/index.tsx) to see how it is set up in this repository. And note that while this demonstrates it in typescript, it works just as well in javascript.
+And you're done. Check [index.ts](./src/index.tsx) to see how it is set up in this repository. And note that while this demonstrates it in typescript, it works just as well in javascript.
